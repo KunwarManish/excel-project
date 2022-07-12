@@ -10,6 +10,6 @@ This project is based on Excel Dashboard Design, in which I use sample sales dat
 
 ## Excel Dashboard - Total Profit  
 
-[![Watch the video](https://github.com/KunwarManish/excel-project/blob/main/Excel%20Dashboard/images/sales-profit-dashboard.JPG?raw=true)] (https://www.youtube.com/watch?v=RsGT03MRc3I)
+[![Watch the video](https://github.com/KunwarManish/excel-project/blob/main/Excel%20Dashboard/images/sales-profit-dashboard.JPG?raw=true)](https://www.youtube.com/watch?v=RsGT03MRc3I)
 
 
