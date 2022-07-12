@@ -4,8 +4,8 @@ This project is based on Excel Dashboard Design, in which I use sample sales dat
 
 ## Excel Dashboard - Total Revenue  
 
-<a href="#"><img width="100%" height="auto" src="https://https://github.com/KunwarManish/excel-project/blob/main/Excel%20Dashboard/images/sales-profit-dashboard.JPG" height="150px"/></a>
+![](images/sales-revenue-dashboard.JPG)
 
 ## Excel Dashboard - Total Profit  
 
-<a href="#"><img width="100%" height="auto" src="https://https://github.com/KunwarManish/excel-project/blob/main/Excel%20Dashboard/images/sales-profit-dashboard.JPG" height="150px"/></a>
+![](images/sales-profit-dashboard.JPG)
