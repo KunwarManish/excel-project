@@ -4,8 +4,8 @@ This project is based on Excel Dashboard Design, in which I use sample sales dat
 
 ## Excel Dashboard - Total Revenue  
 
-![](images/sales-revenue-dashboard.JPG)
+![](images/sales-%revenue-%dashboard.JPG)
 
 ## Excel Dashboard - Total Profit  
 
-![](images/sales-profit-dashboard.JPG)
+![](images/sales-%profit-%dashboard.JPG)
