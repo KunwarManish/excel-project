@@ -6,7 +6,11 @@ This project is based on Excel Dashboard Design, in which I use sample sales dat
 
 ![alt text](https://https://github.com/KunwarManish/excel-project/blob/main/Excel%20Dashboard/images/sales-revenue-dashboard.JPG?raw=true)
 
+![](images/sales-revenue-dashboard.JPG)
+
 
 ## Excel Dashboard - Total Profit  
 
 ![alt text](https://https://github.com/KunwarManish/excel-project/blob/main/Excel%20Dashboard/images/sales-profit-dashboard.JPG?raw=true)
+
+![](images/sales-profit-dashboard.JPG)
