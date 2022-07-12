@@ -1,3 +1,11 @@
 # excel-dashboard-project
-This repository will be used to store all of the excel files and dashboards that are related to the excel-based project that I am working on to improve my skills in excel.
 
+This project is based on Excel Dashboard Design, in which I use sample sales data to generate pivot tables and pivot charts. After that, I use various formatting approaches and strategies to make the visualizations more understandable and interactive. In the end, I construct two dashboards, one for revenue and another for profit, and add slicers and timelines to each of them.
+
+## Excel Dashboard - Total Revenue  
+
+<a href="#"><img width="100%" height="auto" src="https://https://github.com/KunwarManish/excel-project/blob/main/Excel%20Dashboard/images/sales-profit-dashboard.JPG" height="150px"/></a>
+
+## Excel Dashboard - Total Profit  
+
+<a href="#"><img width="100%" height="auto" src="https://https://github.com/KunwarManish/excel-project/blob/main/Excel%20Dashboard/images/sales-profit-dashboard.JPG" height="150px"/></a>
