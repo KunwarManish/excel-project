@@ -4,12 +4,12 @@ This project is based on Excel Dashboard Design, in which I use sample sales dat
 
 ## Excel Dashboard - Total Revenue 
 
-![](https://https://github.com/KunwarManish/excel-project/blob/main/Excel%20Dashboard/images/sales-revenue-dashboard.JPG?raw=true)
+![](https://github.com/KunwarManish/excel-project/blob/main/Excel%20Dashboard/images/sales-revenue-dashboard.JPG?raw=true)
 
 
 
 ## Excel Dashboard - Total Profit  
 
-![](https://https://github.com/KunwarManish/excel-project/blob/main/Excel%20Dashboard/images/sales-profit-dashboard.JPG?raw=true)
+![](https://github.com/KunwarManish/excel-project/blob/main/Excel%20Dashboard/images/sales-profit-dashboard.JPG?raw=true)
 
 
